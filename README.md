@@ -3,6 +3,8 @@
 This repo contains my answers to the exercises of the University of Helsinki's
 Introduction to Functional Programming course of Spring 2018.
 
+It might not look pretty all throughout but at least it's functional. ;)
+
 ## Links
 
 - Course page:   http://pseudo.fixme.fi/~opqdonut/ifp2018/
