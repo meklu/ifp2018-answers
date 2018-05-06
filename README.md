@@ -5,5 +5,5 @@ Introduction to Functional Programming course of Spring 2018.
 
 ## Links
 
-Course page:   http://pseudo.fixme.fi/~opqdonut/ifp2018/
-Exercise repo: https://github.com/opqdonut/ifp2018-exercises
+- Course page:   http://pseudo.fixme.fi/~opqdonut/ifp2018/
+- Exercise repo: https://github.com/opqdonut/ifp2018-exercises
